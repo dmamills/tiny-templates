@@ -1,4 +1,4 @@
-# tiny templates
+# tiny templates <img src="https://travis-ci.org/dmamills/tiny-templates.svg?branch=master"/>
 
 a really simple templating lib
 
