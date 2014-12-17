@@ -1,0 +1,21 @@
+{
+  "name": "tiny-templates",
+  "version": "0.0.0",
+  "description": "a stupidly basic templating library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter nyan --ui bdd test/tests.js"
+  },
+  "keywords": [
+    "templates"
+  ],
+  "author": "dmamills",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^4.4.1",
+    "mocha": "^2.0.1"
+  }
+}
